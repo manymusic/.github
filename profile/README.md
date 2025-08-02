@@ -1,7 +1,10 @@
 ## Hello, it's manymusic 👋
 
-<!--
+This project, led by [Dr. Seung-Goo Kim](https://seunggookim.github.io/),  aims to investigate deep-phenotyping of music-evoked affective experience using fMRI, EEG, EXG, behavioral ratings, and 1000 full-length real-world musical pieces.
 
+
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
